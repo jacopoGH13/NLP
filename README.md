@@ -7,4 +7,4 @@ The analysis I performed concerns:
 
 
 
-In the branch **Sentiment Analysis** there is a synthetic but very interesting sentiment analysis.
+In the branch **Sentiment Analysis** there is a synthetic but very interesting sentiment analysis by using the same dataframe 'train.csv'
